@@ -1,2 +1,1 @@
-print("Hello world!!")
-print("Uma alteração")
+print("Hello world!")
